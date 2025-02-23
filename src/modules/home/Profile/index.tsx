@@ -39,7 +39,7 @@ export default function Profile() {
                         Владислав
                     </h3>
                     <div className="space-y-2">
-                        <p className="text-xs md:text-sm font-roboto-slab">Младший сын</p>
+                        <p className="text-xs md:text-sm font-roboto-slab">Сын</p>
                         <p className="text-sm md:text-base font-roboto-slab">Павла и Ларисы</p>
                     </div>
                 </Motion.Box>
@@ -49,7 +49,7 @@ export default function Profile() {
                         Анастасия
                     </h3>
                     <div className="space-y-2">
-                        <p className="text-xs md:text-sm font-roboto-slab">Единственная дочь</p>
+                        <p className="text-xs md:text-sm font-roboto-slab">Дочь</p>
                         <p className="text-sm md:text-base font-roboto-slab">Марины и Дмитрия</p>
                     </div>
                 </Motion.Box>

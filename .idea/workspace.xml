@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4be34e94-31f5-4dd7-af4d-f4e7f2198273" name="Changes" comment="" />
+    <list default="true" id="4be34e94-31f5-4dd7-af4d-f4e7f2198273" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/home/Invitation/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/home/Invitation/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/home/Profile/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/home/Profile/index.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +54,7 @@
       <map>
         <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
         <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
       </map>
     </option>
   </component>
@@ -90,6 +96,7 @@
       <updated>1740254769882</updated>
       <workItem from="1740254773033" duration="597000" />
       <workItem from="1740295650573" duration="10476000" />
+      <workItem from="1740308644769" duration="1318000" />
     </task>
     <servers />
   </component>
