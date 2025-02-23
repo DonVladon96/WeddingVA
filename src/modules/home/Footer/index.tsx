@@ -9,7 +9,7 @@ export default function Footer() {
         bg-black text-white rounded-tl-[50px] md:rounded-tl-[100px] rounded-tr-[50px] md:rounded-tr-[100px] h-[calc(100dvh-7rem)] flex justify-center items-center"
             style={{ clipPath: " polygon(0 0, 100% 0%, 100% 100%, 0% 100%)" }}
         >
-            <div className="fixed bottom-0  w-full">
+            <div className="w-full">
                 <Content />
             </div>
         </footer>
