@@ -105,9 +105,9 @@ export default function Event() {
             <div className="w-full md:w-1/2 xl:w-[630px] h-[389px] md:h-[320px] xl:h-[389px]">
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d136.30440397080326!2d53.166003228579505!3d56.86531659656774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1740305178807!5m2!1sru!2sru"
-                  width="600"
-                  height="450"
-                  allowFullScreen=""
+                  width="100%"
+                  height="100%"
+                  allowFullScreen={false}
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"></iframe>
             </div>
